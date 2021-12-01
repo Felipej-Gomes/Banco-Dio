@@ -1,6 +1,6 @@
 # Desafio Digital Innovation One
 
-O objetivo é riar um banco digital que simule saques, depositos e transferências entre contas, sendo elas corrente e poupança usando os pilares da OO:
+O objetivo é criar um banco digital que simule saques, depositos e transferências entre contas, sendo elas corrente e poupança usando os pilares da OO:
  
 ### Abstração
 Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
